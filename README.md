@@ -11,7 +11,6 @@
 6. 学会使用 vue-lazyload 实现图片惰加载
 7. 学会使用 mockjs 模拟后台数据接口  
 
-项目链接: https://github.com/hotchickenporgrammer/vue-demo
 **mintshop-client文件夹：**
 
 1. `npm install`
